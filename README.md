@@ -1,1 +1,3 @@
 # hotnews
+
+A NEW REPOSITORY
