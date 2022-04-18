@@ -1,0 +1,147 @@
+Pitch
+Timbre Comparison
+Musical Aptitude
+
+Intervals
+Harmonic: Seconds
+Harmonic: Thirds
+Harmonic: Fourths and Fifths
+Harmonic: Sixths
+Harmonic: Sevenths
+Melodic: Seconds
+Melodic: Thirds
+Melodic: Fourths and Fifths
+Melodic: Sevenths
+Harmonic: Tritones and Major Sevenths
+All Intervals
+
+Triads
+Major and Minor
+Major Triad Inversions
+Minor Triad Inversions
+Diminished and Augmented
+Diminished Triad Inversions
+Basic Triads
+Sus2 and Phrygian
+Sus4 and Lydian
+Advanced Triads
+All Triads
+Bonus: Sus4b5 and Locrian
+
+Seventh Chords
+Maj7, Min7 and Dom 7
+Half dim7, Dim7
+Phrygian Maj7 and Maj7sus2
+Maj7sus4 and Lydian Maj7
+Dom7sus4, Lydian Dom, Phrygian Dom
+Dim Maj7 and Aug Maj7, Min Maj7
+All 7th Chords
+
+Tonal Progressions
+Progressions #1
+Progressions #2
+Progressions #3
+Permutation Trainer: The "4 chords"
+Permutation Trainer: Imaj7 - iimin7 - IVmaj7 - V7
+
+Secondary Chords
+V of ii and V of iii
+V of IV and V of V
+V of vi and V of iii
+All Secondary Dominant Chords
+vii of ii and vii of iii
+vii of IV and vii of V
+vii of vi and vii of iii
+All Secondary Seventh Chords
+
+Extended Chords
+Major add2 and Major add4
+Minor add9 and Minor add11
+Phrygian Major and Lydian Major
+Phrygian Minor and Lydian Minor
+Major6 and Major addb6
+Minor6 and Minor addb6
+Major9, Major7#11 and Major13
+Minor9, Minor11 and Minor13
+MinMaj9, MinMaj11 and MinMaj13
+All Added-Note Triads
+
+Rhythm
+1 Note - Quarters
+2 Notes - Quarters
+3 Notes - Quarters
+4 Notes - Quarters
+Any # of Notes - Quarters
+4 Notes - Eights
+Any # of Notes - Eights
+4 Notes - Sixteenths
+Any # of Notes - Sixteenths
+
+Modal Voicings
+Phrygian and Locrian
+Mixolydian and Ionian
+Dorian b2 and Altered Dominant
+Melodic Minor and Locrian Natural 2
+Mixolydian #11 and Mixolydian b6
+Lydian Augmented and Lydian
+Harmonic Minor and Phrygian Major
+Ionian Augmented and Lydian #9
+Locrian Natural 6 and Dorian #4
+Altered Dominant bb7 and Altered Dominant
+All Major Modal Voicings
+All Melodic Minor Modal Voicings
+All Harmonic Minor Modal Voicings
+
+Scales
+Scale Trainer: Major Modes
+Scale Trainer: Melodic Minor Modes
+Scale Trainer: Harmonic Minor Modes
+Scale Trainer: Pentatonic, Blues and Bebop
+Scale Trainer: Symmetric Scales
+Ionian and Lydian
+Dorian and Aeolian
+Phrygian and Locrian
+Mixolydian and Mixolydian#11
+Melodic Minor and Locrian Natural 2
+Dorian b2 and Altered Dominant
+Mixolydian #11 and Mixolydian b6
+Lydian Augmented and Lydian
+Major Pentatonic and Major Blues
+Harmonic Minor and Phrygian Major
+Ionian Augmented and Lydian #9
+Locrian Natural 6 and Dorian #4
+Altered Dominant bb7 and Altered Dominant
+Half Whole and Whole Half
+Whole Tone vs Augmented
+Minor Pentatonic and Minor Blues
+Minor Bebop and Melodic Minor Bebop
+Major Bebop and Dominant Bebop
+
+Modal Harmony
+Modal Triads #1 - Major Tonic
+Modal Triads #2 - Major Tonic
+Modal Triads #3 - Major Tonic
+Modal Triads #4 - Major Tonic
+All Modal Triads - Major Tonic
+Modal Triads #1 - Minor Tonic
+Modal Triads #2 - Minor Tonic
+Modal Triads #3 - Minor Tonic
+Modal Triads #4 - Minor Tonic
+All Modal Triads - Minor Tonic
+
+Bitonal Harmony
+Major Triads: Basic
+Major Triads: Intermediate
+Major Triads: Advanced
+Major Triads: All
+Minor Triads: Basic
+Minor Triads: Intermediate
+Minor Triads: Advanced
+Minor Triads: All
+
+Reharmonization
+Standard Reharms #1
+Standard Reharms #2
+Standard Reharms #3
+Standard Reharms #4
+Standard Reharms #5
